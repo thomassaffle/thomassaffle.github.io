@@ -2,81 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thomas Saffle</title>
-    <link>https://example.org/</link>
+    <link>https://thomassaffle.github.io/</link>
     <description>Recent content on Thomas Saffle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 05 Nov 2018 19:57:40 +0530</lastBuildDate>
     
-	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://thomassaffle.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fragment - Project Management Application</title>
-      <link>https://example.org/portfolio/work7/</link>
+      <link>https://thomassaffle.github.io/portfolio/work7/</link>
       <pubDate>Mon, 05 Nov 2018 19:57:40 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/work7/</guid>
+      <guid>https://thomassaffle.github.io/portfolio/work7/</guid>
       <description>&lt;p&gt;Interaction Design / Visual Design
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>University of Arizona Library - Homepage Redesign</title>
-      <link>https://example.org/portfolio/work6/</link>
+      <link>https://thomassaffle.github.io/portfolio/work6/</link>
       <pubDate>Mon, 05 Nov 2018 19:56:17 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/work6/</guid>
+      <guid>https://thomassaffle.github.io/portfolio/work6/</guid>
       <description>&lt;p&gt;Website Design / Information Architecture / Visual Design
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Rui&#39;s Secret Kitchen Application</title>
-      <link>https://example.org/portfolio/work4/</link>
+      <link>https://thomassaffle.github.io/portfolio/work4/</link>
       <pubDate>Mon, 05 Nov 2018 19:50:47 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/work4/</guid>
+      <guid>https://thomassaffle.github.io/portfolio/work4/</guid>
       <description>&lt;p&gt;Native Application Product Design / Interaction Design
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>EmoNiteDay 2018</title>
-      <link>https://example.org/portfolio/work3/</link>
+      <link>https://thomassaffle.github.io/portfolio/work3/</link>
       <pubDate>Mon, 05 Nov 2018 19:44:32 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/work3/</guid>
+      <guid>https://thomassaffle.github.io/portfolio/work3/</guid>
       <description>&lt;p&gt;Illustration / Marketing
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>The Protestant Reformation online exhibition site</title>
-      <link>https://example.org/portfolio/work5/</link>
+      <link>https://thomassaffle.github.io/portfolio/work5/</link>
       <pubDate>Tue, 05 Jun 2018 19:53:42 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/work5/</guid>
+      <guid>https://thomassaffle.github.io/portfolio/work5/</guid>
       <description>&lt;p&gt;Responsive Website Design / Information Architecture
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Bobo&#39;s Rebranding</title>
-      <link>https://example.org/portfolio/work2/</link>
+      <link>https://thomassaffle.github.io/portfolio/work2/</link>
       <pubDate>Mon, 05 Nov 2018 19:41:01 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/work2/</guid>
+      <guid>https://thomassaffle.github.io/portfolio/work2/</guid>
       <description>&lt;p&gt;Graphic Design / Branding
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>2018 Illustrations</title>
-      <link>https://example.org/portfolio/work8/</link>
+      <link>https://thomassaffle.github.io/portfolio/work8/</link>
       <pubDate>Mon, 05 Nov 2018 19:59:22 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/work8/</guid>
+      <guid>https://thomassaffle.github.io/portfolio/work8/</guid>
       <description>&lt;p&gt;Illustration / Graphic Design
 &lt;/p&gt;</description>
     </item>
